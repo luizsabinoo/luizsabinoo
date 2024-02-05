@@ -2,9 +2,8 @@
 
 
 
-- 🔭 Atualmente estudo Ciencia da computação - Universidade cidade de São Paulo
-- 🌱 Estudando Java , Banco de dados.
-- 📫 Contate-me no email: profissional.luizsabino@gmail.com
+- 🔭 Atualmente estudo: Ciencia da computação - Universidade cidade de São Paulo
+- 🌱 Estudando: Java , Banco de dados.
 
 <div>
 
